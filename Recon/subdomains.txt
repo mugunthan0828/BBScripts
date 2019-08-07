@@ -1,0 +1,136 @@
+    *.admin.yelp.com
+    admin.yelp.com
+    *.biz.yelp.com
+    biz.yelp.com
+    *.biz.yelp.com.ar
+    *.biz.yelp.com.au
+    biz.yelp.com.au
+    *.biz.yelp.com.br
+    *.biz.yelp.com.hk
+    *.biz.yelp.com.mx
+    *.biz.yelp.com.ph
+    *.biz.yelp.com.sg
+    biz.yelp.com.sg
+    *.biz.yelp.com.tr
+    biz.yelp.com.tr
+    *.biz.yelp.com.tw
+    biz.yelp.com.tw
+    blog.yelp.com
+  crt.sh | %.admin.yelp.com
+  crt.sh | %.biz.yelp.com
+  crt.sh | %.biz.yelp.com.ar
+  crt.sh | %.biz.yelp.com.au
+  crt.sh | %.biz.yelp.com.br
+  crt.sh | %.biz.yelp.com.hk
+  crt.sh | %.biz.yelp.com.mx
+  crt.sh | %.biz.yelp.com.ph
+  crt.sh | %.biz.yelp.com.sg
+  crt.sh | %.biz.yelp.com.tr
+  crt.sh | %.biz.yelp.com.tw
+  crt.sh | %.blog.yelp.com
+  crt.sh | %.docs.developer.yelp.com
+  crt.sh | %.m.yelp.com
+  crt.sh | %.m.yelp.com.ar
+  crt.sh | %.m.yelp.com.au
+  crt.sh | %.m.yelp.com.br
+  crt.sh | %.m.yelp.com.hk
+  crt.sh | %.m.yelp.com.mx
+  crt.sh | %.m.yelp.com.ph
+  crt.sh | %.m.yelp.com.sg
+  crt.sh | %.m.yelp.com.tr
+  crt.sh | %.m.yelp.com.tw
+  crt.sh | %.seatme.yelp.com
+  crt.sh | %.static.seatme.yelp.com
+  crt.sh | %.status.developer.yelp.com
+  crt.sh | %.yelp.com
+  crt.sh | %.yelp.com.ar
+  crt.sh | %.yelp.com.au
+  crt.sh | %.yelp.com.br
+  crt.sh | %.yelp.com.hk
+  crt.sh | %.yelp.com.mx
+  crt.sh | %.yelp.com.ph
+  crt.sh | %.yelp.com.sg
+  crt.sh | %.yelp.com.tr
+  crt.sh | %.yelp.com.tw
+    docs.developer.yelp.com
+    Identity LIKE '%.admin.yelp.com'
+    Identity LIKE '%.biz.yelp.com'
+    Identity LIKE '%.biz.yelp.com.ar'
+    Identity LIKE '%.biz.yelp.com.au'
+    Identity LIKE '%.biz.yelp.com.br'
+    Identity LIKE '%.biz.yelp.com.hk'
+    Identity LIKE '%.biz.yelp.com.mx'
+    Identity LIKE '%.biz.yelp.com.ph'
+    Identity LIKE '%.biz.yelp.com.sg'
+    Identity LIKE '%.biz.yelp.com.tr'
+    Identity LIKE '%.biz.yelp.com.tw'
+    Identity LIKE '%.blog.yelp.com'
+    Identity LIKE '%.docs.developer.yelp.com'
+    Identity LIKE '%.m.yelp.com'
+    Identity LIKE '%.m.yelp.com.ar'
+    Identity LIKE '%.m.yelp.com.au'
+    Identity LIKE '%.m.yelp.com.br'
+    Identity LIKE '%.m.yelp.com.hk'
+    Identity LIKE '%.m.yelp.com.mx'
+    Identity LIKE '%.m.yelp.com.ph'
+    Identity LIKE '%.m.yelp.com.sg'
+    Identity LIKE '%.m.yelp.com.tr'
+    Identity LIKE '%.m.yelp.com.tw'
+    Identity LIKE '%.seatme.yelp.com'
+    Identity LIKE '%.static.seatme.yelp.com'
+    Identity LIKE '%.status.developer.yelp.com'
+    Identity LIKE '%.yelp.com'
+    Identity LIKE '%.yelp.com.ar'
+    Identity LIKE '%.yelp.com.au'
+    Identity LIKE '%.yelp.com.br'
+    Identity LIKE '%.yelp.com.hk'
+    Identity LIKE '%.yelp.com.mx'
+    Identity LIKE '%.yelp.com.ph'
+    Identity LIKE '%.yelp.com.sg'
+    Identity LIKE '%.yelp.com.tr'
+    Identity LIKE '%.yelp.com.tw'
+    *.m.yelp.com
+    m.yelp.com
+    *.m.yelp.com.ar
+    *.m.yelp.com.au
+    m.yelp.com.au
+    *.m.yelp.com.br
+    *.m.yelp.com.hk
+    *.m.yelp.com.mx
+    *.m.yelp.com.ph
+    *.m.yelp.com.sg
+    m.yelp.com.sg
+    *.m.yelp.com.tr
+    m.yelp.com.tr
+    *.m.yelp.com.tw
+    m.yelp.com.tw
+    *.seatme.yelp.com
+    seatme.yelp.com
+    static.seatme.yelp.com
+    status.developer.yelp.com
+    www.edge-fl.yelp.com
+    www.yelp.com
+    *.yelp.com
+    *.yelp.com.ar
+    *.yelp.com.au
+    *.yelp.com.br
+    *.yelp.com.hk
+    *.yelp.com.mx
+    *.yelp.com.ph
+    *.yelp.com.sg
+    *.yelp.com.tr
+    *.yelp.com.tw
+  crt.sh | %.assostant.yelp.com
+  crt.sh | %.corp.yelp.com
+  crt.sh | %.devop.yelp.com
+  crt.sh | %.dev.yelp.com
+  crt.sh | %.internal.yelp.com
+  crt.sh | %.ops.yelp.com
+  crt.sh | %.test.yelp.com
+    Identity LIKE '%.assostant.yelp.com'
+    Identity LIKE '%.corp.yelp.com'
+    Identity LIKE '%.devop.yelp.com'
+    Identity LIKE '%.dev.yelp.com'
+    Identity LIKE '%.internal.yelp.com'
+    Identity LIKE '%.ops.yelp.com'
+    Identity LIKE '%.test.yelp.com'
