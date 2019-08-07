@@ -1,0 +1,2 @@
+# BBScripts
+Bug bounty scripts
